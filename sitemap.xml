@@ -4,12 +4,17 @@
 
     <sitemap>
         <loc>https://github.com/SteveJeson/SteveJeson.github.io/post-sitemap.xml</loc>
-        <lastmod>2019-02-21T06:36:48.620Z</lastmod>
+        <lastmod>2019-02-21T07:23:06.304Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://github.com/SteveJeson/SteveJeson.github.io/page-sitemap.xml</loc>
         <lastmod>2019-02-21T06:40:36.521Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://github.com/SteveJeson/SteveJeson.github.io/tag-sitemap.xml</loc>
+        <lastmod>2019-02-21T07:23:06.304Z</lastmod>
     </sitemap>
 
 </sitemapindex>
