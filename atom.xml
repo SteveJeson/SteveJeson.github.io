@@ -3,11 +3,11 @@
   <title>巍博</title>
   
   <subtitle>头顶一座山</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/SteveJeson/atom.xml" rel="self"/>
   
-  <link href="https://github.com/SteveJeson/SteveJeson.github.io/"/>
+  <link href="https://github.com/"/>
   <updated>2019-02-21T07:31:27.321Z</updated>
-  <id>https://github.com/SteveJeson/SteveJeson.github.io/</id>
+  <id>https://github.com/</id>
   
   <author>
     <name>柳巍</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>阅读计划100天</title>
-    <link href="https://github.com/SteveJeson/SteveJeson.github.io/2019/02/21/%E9%98%85%E8%AF%BB%E8%AE%A1%E5%88%92100%E5%A4%A9/"/>
-    <id>https://github.com/SteveJeson/SteveJeson.github.io/2019/02/21/阅读计划100天/</id>
+    <link href="https://github.com/2019/02/21/%E9%98%85%E8%AF%BB%E8%AE%A1%E5%88%92100%E5%A4%A9/"/>
+    <id>https://github.com/2019/02/21/阅读计划100天/</id>
     <published>2019-02-21T07:30:28.000Z</published>
     <updated>2019-02-21T07:31:27.321Z</updated>
     
@@ -35,14 +35,14 @@
     </summary>
     
     
-      <category term="阅读" scheme="https://github.com/SteveJeson/SteveJeson.github.io/tags/%E9%98%85%E8%AF%BB/"/>
+      <category term="阅读" scheme="https://github.com/tags/%E9%98%85%E8%AF%BB/"/>
     
   </entry>
   
   <entry>
     <title>Git命令整理</title>
-    <link href="https://github.com/SteveJeson/SteveJeson.github.io/2019/02/21/Git%E5%91%BD%E4%BB%A4%E6%95%B4%E7%90%86/"/>
-    <id>https://github.com/SteveJeson/SteveJeson.github.io/2019/02/21/Git命令整理/</id>
+    <link href="https://github.com/2019/02/21/Git%E5%91%BD%E4%BB%A4%E6%95%B4%E7%90%86/"/>
+    <id>https://github.com/2019/02/21/Git命令整理/</id>
     <published>2019-02-21T07:13:58.000Z</published>
     <updated>2019-02-21T07:23:06.304Z</updated>
     
@@ -58,14 +58,14 @@
     </summary>
     
     
-      <category term="-Git" scheme="https://github.com/SteveJeson/SteveJeson.github.io/tags/Git/"/>
+      <category term="-Git" scheme="https://github.com/tags/Git/"/>
     
   </entry>
   
   <entry>
     <title>search</title>
-    <link href="https://github.com/SteveJeson/SteveJeson.github.io/2019/02/21/search/"/>
-    <id>https://github.com/SteveJeson/SteveJeson.github.io/2019/02/21/search/</id>
+    <link href="https://github.com/2019/02/21/search/"/>
+    <id>https://github.com/2019/02/21/search/</id>
     <published>2019-02-21T06:36:48.000Z</published>
     <updated>2019-02-21T06:36:48.620Z</updated>
     
@@ -78,8 +78,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/SteveJeson/SteveJeson.github.io/2019/02/21/hello-world/"/>
-    <id>https://github.com/SteveJeson/SteveJeson.github.io/2019/02/21/hello-world/</id>
+    <link href="https://github.com/2019/02/21/hello-world/"/>
+    <id>https://github.com/2019/02/21/hello-world/</id>
     <published>2019-02-21T05:45:19.992Z</published>
     <updated>2019-02-21T05:45:19.992Z</updated>
     
